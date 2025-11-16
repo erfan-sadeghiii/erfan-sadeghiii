@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Erfan Sadeghi</h1>
-<h3 align="center">Fullstack Developer | Building Digital Experiences with Next, Nuxt, React, Vue & Django</h3>
+<h1 align="center">Hey man , I'm Erfan Sadeghi</h1>
+<h3 align="center">Fullstack Developer | Building Digital Experiences with Next, Nuxt, React, Vue & Django | fluent in Machine-Learning </h3>
 
 <p align="center">“I build digital experiences that blend clean engineering with creative design — using Next, Nuxt, React, Vue, Django, and more.”</p>
 
@@ -12,7 +12,7 @@ I work fluently with **Vue**, **React**, **Nuxt**, **Next**, **Django**, and **E
 
 Beyond code, I express creativity through tools like **Photoshop**, **Illustrator**, **After Effects**, **Premiere Pro**, **Figma**, and **Canva**.  
 
-Currently, I’m a **student at Allameh Helli 7** and contribute to projects at **[HarkatGroup.ir](https://harkatgroup.ir)**, focusing on innovation, web systems, and digital transformation.  
+Currently, I’m a **student at Allameh Helli 7** and contribute to projects at **Neosis**, focusing on innovation, web systems, and digital transformation.  
 
 Always exploring new ideas in **AI** and **Machine Learning**, I love turning complexity into simple, human-centered solutions.  
 
@@ -27,7 +27,9 @@ Always exploring new ideas in **AI** and **Machine Learning**, I love turning co
 🐍 **Django** 🚂 **Express.js** 🟢 **Node.js** 🗄️ **MySQL / MongoDB**
 
 #### 🎨 Design & Creative  
-🖌️ **Photoshop** 🎞️ **After Effects** 🧩 **Figma** 🪄 **Canva**
+🖌️ **Photoshop** 🎞️ **After Effects** 🧩 **Primiere** 🪄 **Indesign**
+
+### 🦖 Machine Learning
 
 ---
 
@@ -38,7 +40,7 @@ Always exploring new ideas in **AI** and **Machine Learning**, I love turning co
 ---
 
 ### 💼 Experience  
-**[HarkatGroup.ir](https://harkatgroup.ir)**  
+**Neosis**  
 *Fullstack Developer | Working on digital transformation & web systems*
 
 ---
