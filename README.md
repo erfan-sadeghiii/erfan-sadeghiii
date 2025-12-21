@@ -1,5 +1,5 @@
 <h1 align="center">Hey man , I'm Erfan Sadeghi</h1>
-<h3 align="center">Fullstack Developer | Building Digital Experiences with Next, Nuxt, React, Vue & Django | fluent in Machine-Learning </h3>
+<h3 align="center">Fullstack Developer (Next, Nuxt, React, Vue, node.js & Django) |   | junior Data scientist in Machine-Learning </h3>
 
 <p align="center">“I build digital experiences that blend clean engineering with creative design — using Next, Nuxt, React, Vue, Django, and more.”</p>
 
