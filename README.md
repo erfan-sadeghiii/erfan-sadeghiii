@@ -1,5 +1,5 @@
-<h1 align="center">Hey man , I'm Erfan Sadeghi</h1>
-<h3>  Fullstack Developer <strong>(Next.js, Nuxt.js, express.js & Django)</strong>  |  Data scientist <strong>(Machine-Learning)</strong></h3> 
+<h1 align="center">Hey man , I'm Erfan Sadeghi, a junior developer</h1>
+<h3  align="center">  Fullstack Developer (Next.js, Nuxt.js, express.js & Django)  |  Data scientist (Machine-Learning)</h3> 
 
 <p align="center">“About my <strong>"Personality"</strong> ?  Thats Obvious,I am disciplined, and focused on results . like  <mark>Stalin</mark>”</p>
 - 🔭 I’m currently working on [TixoGame-website](https://tixogame.com)  
