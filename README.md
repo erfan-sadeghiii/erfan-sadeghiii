@@ -1,7 +1,7 @@
 <h1 align="center">Hey man , I'm Erfan Sadeghi</h1>
 <h3 align="center">Fullstack Developer (Next, Nuxt, React, Vue, node.js & Django) |   | junior Data scientist in Machine-Learning </h3>
 
-<p align="center">“About my "<strong>Personality</strong>strong>" ?  Thats Obvious,I am disciplined, and focused on results . like  <mark>Stalin</mark>”</p>
+<p align="center">“About my "<strong>Personality</strong>" ?  Thats Obvious,I am disciplined, and focused on results . like  <mark>Stalin</mark>”</p>
 
 ---
 
