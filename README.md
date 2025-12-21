@@ -1,20 +1,14 @@
 <h1 align="center">Hey man , I'm Erfan Sadeghi</h1>
 <h3 align="center">Fullstack Developer (Next, Nuxt, React, Vue, node.js & Django) |   | junior Data scientist in Machine-Learning </h3>
 
-<p align="center">“About my "<strong>Personality</strong>" ?  Thats Obvious,I am disciplined, and focused on results . like  <mark>Stalin</mark>”</p>
+<p align="center">“About my <strong>"Personality"</strong> ?  Thats Obvious,I am disciplined, and focused on results . like  <mark>Stalin</mark>”</p>
 
 ---
 
 ### 🧭 About Me  
-Hey there! I'm **Erfan Sadeghi** — a creative and technically minded full-stack developer passionate about crafting seamless, efficient, and beautiful digital experiences.  
+Currently, I’m a **student at Allameh Helli 7** and a **free person** as a freelancer at **Neosis Freelance Group**
 
-I work fluently with **Vue**, **React**, **Nuxt**, **Next**, **Django**, and **Express** — blending strong backend logic with clean, modern frontend design.  
-
-Beyond code, I express creativity through tools like **Photoshop**, **Illustrator**, **After Effects**, **Premiere Pro**, **Figma**, and **Canva**.  
-
-Currently, I’m a **student at Allameh Helli 7** and contribute to projects at **Neosis**, focusing on innovation, web systems, and digital transformation.  
-
-Always exploring new ideas in **AI** and **Machine Learning**, I love turning complexity into simple, human-centered solutions.  
+.  
 
 ---
 
