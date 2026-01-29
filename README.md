@@ -77,6 +77,7 @@ Currently, I’m a **student at Allameh Helli 7** and a **free person** as a fre
 <div align="center">
   - Machine Learning
   - LangChain
+  - Classic Computer Vision (openCV)
 </div>
 
 </td></tr></table>  
