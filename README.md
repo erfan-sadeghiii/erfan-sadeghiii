@@ -134,9 +134,9 @@ Currently, I’m a **student at Allameh Helli 7** and a **free person** as a fre
 
 ### 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernesto-sadeghi&layout=compact&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sadeghiii&layout=compact&theme=merko)  
 
-![Visitor count](https://komarev.com/ghpvc/?username=ernesto-sadeghi&color=green)
+![Visitor count](https://komarev.com/ghpvc/?username=erfan-sadeghiii&color=green)
 
 ---
 
