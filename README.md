@@ -1,4 +1,4 @@
-<h1 align="center">Hey man , I'm Erfan Sadeghi, a junior developer</h1>
+<h1 align="center">Hey man , I'm Erfan Sadeghi, a developer</h1>
 <h3  align="center">  Fullstack Developer (Next.js, Nuxt.js, express.js & Django)  |  Data scientist (Machine-Learning)</h3> 
 
 <h4 align="center">“About my <strong>"Personality"</strong> ?  Thats Obvious,I am disciplined, and focused on results . like  <mark>Stalin</mark>”</h4>
