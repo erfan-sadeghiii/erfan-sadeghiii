@@ -135,7 +135,6 @@ Currently, I’m a **student at Allameh Helli 7** and a **free person** as a fre
 
 ### 📊 GitHub Stats  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfan-sadeghiii)](https://github.com/anuraghazra/github-readme-stats)
 ![Visitor count](https://komarev.com/ghpvc/?username=erfan-sadeghiii&color=green)
 
 ---
