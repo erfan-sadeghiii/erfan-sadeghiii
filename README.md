@@ -10,7 +10,7 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
-  - 📫 How to reach me **t.elahibakhsh@gmail.com**
+  - 📫 How to reach me **erfansadeghiiii99@gmail.com**
 ---
 
 ### 🧭 About Me  
