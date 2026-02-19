@@ -3,7 +3,7 @@
 
 <h4 align="center">“About my <strong>"Personality"</strong> ?  Thats Obvious,I am  "<mark>Stalin</mark>” in a new body</h4>
 
-- 🔭 I’m currently working on ![TixoGame-website](https://tixogame.com)   
+- 🔭 I’m currently working on [ TixoGame-website ](https://tixogame.com)   
 
 - 🌱 I’m currently learning OpenCV and deepLearing  
   
