@@ -2,15 +2,15 @@
 <h3  align="center">  Fullstack Developer (Next.js, Nuxt.js, express.js & Django)  |  Data scientist (Machine-Learning)</h3> 
 
 <h4 align="center">“About my <strong>"Personality"</strong> ?  Thats Obvious,I am  "<mark>Stalin</mark>” in a new body</h4>
-- 🔭 I’m currently working on [TixoGame-website](https://tixogame.com)  
-  
+
+- 🔭 I’m currently working on ![TixoGame-website](https://tixogame.com)   
 
 - 🌱 I’m currently learning OpenCV and deepLearing  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
-  - 📫 How to reach me **erfansadeghiiii99@gmail.com**
+- 📫 How to reach me **erfansadeghiiii99@gmail.com**
 ---
 
 ### 🧭 About Me  
