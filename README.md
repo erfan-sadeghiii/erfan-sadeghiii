@@ -70,7 +70,7 @@
 | `Django` | `React` | `Python` | `Machine Learning` |
 | `Next.js` | `Vue.js` | `Express` | `Deep Learning` |
 | `Nuxt.js` | `Redux` | `REST APIs` | `LangChain` |
-| `JavaScript` | `Bootstrap` | `C++` | `OpenCV` |
+| `JavaScript` | `Bootstrap` | `node.js` | `OpenCV` |
 | | | | `Image Processing` |
 
 ---
@@ -90,31 +90,6 @@
 |:---------:|
 | 🛡️ Intelligent Security |
 
----
-
-## ✦ featured projects
-
-<details open>
-<summary><b>📝 Django Blog Website</b></summary>
-
-A Django-based blog platform featuring:
-- User authentication · Article management · Tagging system
-- Comments · Search · Pagination
-
-*Built to practice Django fundamentals and best practices.*
-</details>
-
-<br/>
-
-<details open>
-<summary><b>⚡ Vue 3 Modern App</b></summary>
-
-Built with Vue 3 using `<script setup>` syntax:
-- Composition API (`ref`, `reactive`, `computed`)
-- Custom hooks & reusable composables
-- Dynamic routing with Vue Router
-- Responsive UI with CSS/Bootstrap
-</details>
 
 ---
 
@@ -128,8 +103,8 @@ Built with Vue 3 using `<script setup>` syntax:
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=erfansadeghi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2D9CDB&icon_color=2D9CDB" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfansadeghi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2D9CDB" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=erfan-sadeghiii&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2D9CDB&icon_color=2D9CDB" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sadeghiii&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2D9CDB" height="150" />
 
 </div>
 
