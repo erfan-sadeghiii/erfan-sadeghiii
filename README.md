@@ -11,8 +11,9 @@
 <div align="center">
   
 <img src="https://img.shields.io/badge/Tehran-Iran-2D9CDB?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/09104662199-2D9CDB?style=flat-square&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/erfansadeghiiii@gmail.com-2D9CDB?style=flat-square&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/s.erfan.29.10@gmail.com-2D9CDB?style=flat-square&logo=gmail&logoColor=white"/>
+
 
 </div>
 
