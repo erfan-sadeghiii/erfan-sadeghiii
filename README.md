@@ -21,7 +21,7 @@
 
 ## ✦ about
 
-> I specialize in web development — both backend and frontend — with professional experience.  
+> I experienced in web development — both backend and frontend   
 > Currently seeking new challenges and actively transitioning into **Data Science**.
 
 ---
