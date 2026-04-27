@@ -59,7 +59,6 @@
 ### ▸ Allameh Helli High School — *Tehran, Iran*
 `Sep 2024 – present`
 
-> Grade: **19.5/20**
 
 ---
 
@@ -81,7 +80,7 @@
 | | |
 |--|--|
 | **Design** | `Photoshop` · `Illustrator` |
-| **Environment** | `Linux` · `Vim` · `Git` · `VS Code` |
+| **Environment** | `Linux` · `Vim` · `Git` · `VS Code` . `Docker` |
 
 ---
 
