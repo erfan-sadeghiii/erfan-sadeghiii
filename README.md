@@ -17,13 +17,6 @@
 
 </div>
 
----
-
-## ✦ about
-
-> I am experienced in web development — both backend and frontend
-
-> Currently seeking new challenges and actively transitioning into **Data Science**.
 
 
 ---
@@ -65,17 +58,7 @@
 
 `Deep Learning` `Machine Learning` `Data Science` `Open Source` `Clean Architecture` `Computer Vision` `LLMs`
 
----
 
-## ✦ github stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=erfan-sadeghiii&show_icons=true&theme=dark)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sadeghiii&layout=compact&theme=dark)
-</div>
 
 ---
 
