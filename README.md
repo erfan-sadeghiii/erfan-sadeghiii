@@ -2,7 +2,7 @@
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Erfan+Sadeghi" alt="Typing SVG" />
 
-**`CS Student`** &nbsp;✦&nbsp; **`Full-Stack Developer`** &nbsp;✦&nbsp; **`Junior Data Scientist`**
+**`CS Student`** &nbsp;✦&nbsp; **`Full-Stack Developer`** &nbsp;✦&nbsp; **`Data Scientist`**
 
 </div>
 
@@ -21,66 +21,34 @@
 
 ## ✦ about
 
-> I experienced in web development — both backend and frontend   
+> I am experienced in web development — both backend and frontend
+
 > Currently seeking new challenges and actively transitioning into **Data Science**.
 
----
-
-| | |
-|--|--|
-| **personal**<br/><br/>▸ **Age:** 17<br/>▸ **Gender:** Male<br/>▸ **Marital Status:** Single<br/>▸ **Military Service:** Exempt (education) | **looking for**<br/><br/>▸ Project-based / new role (not urgent)<br/>▸ Salary: negotiable<br/>▸ Location: Tehran |
 
 ---
 
 ## ✦ tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,vue,redux,nextjs,nuxtjs,express,langchain,cpp,linux,vim,opencv,ps,ai,git,github,vscode,html,css,js,bootstrap" />
-</p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,react,vue,redux,pinia,js,ts,bootstrap,tailwind" />
+  
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,mongo,mysql" />
+  
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,dash,streamlit,langchain" />
+  
+  <img src="https://skillicons.dev/icons?i=cpp,linux,vim,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=ae,pr,id,ps,ai,xd,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,linux,vim,git,github,vscode,docker" />
+  
 
----
 
-## ✦ experience
-
-### ▸ FullStack Developer
-**Neosis Freelance Group** — *Tehran*  
-`Sep 2024 – present`
-
-- Initially part of an IT team at *Harakat Holding*; parted ways due to internal matters
-- Managed the company website — files removed after collaboration ended
-- Currently leading a freelance group of developers and graphic designers
-- 📸 [Instagram: @neosis.ir](https://www.instagram.com/neosis.ir)  
-- 🌐 [Latest project: tixogame.com](https://tixogame.com)
 
 ---
 
 ## ✦ education
 
-### ▸ Allameh Helli High School — *Tehran, Iran*
-`Sep 2024 – present`
+### ▸ Sampad Allameh Helli High School — *Tehran, Iran*
 
-
----
-
-## ✦ skills
-
-| | | | |
-|--|--|--|--|
-| **Web** | **Frontend** | **Backend** | **Data & AI** |
-| `Django` | `React` | `Python` | `Machine Learning` |
-| `Next.js` | `Vue.js` | `Express` | `Deep Learning` |
-| `Nuxt.js` | `Redux` | `REST APIs` | `LangChain` |
-| `JavaScript` | `Bootstrap` | `node.js` | `OpenCV` |
-| | | | `Image Processing` |
-
----
-
-## ✦ design & tools
-
-| | |
-|--|--|
-| **Design** | `Photoshop` · `Illustrator` |
-| **Environment** | `Linux` · `Vim` · `Git` · `VS Code` . `Docker` |
 
 ---
 
@@ -102,10 +70,11 @@
 ## ✦ github stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=erfan-sadeghiii&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2D9CDB&icon_color=2D9CDB" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sadeghiii&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2D9CDB" height="150" />
 
+![](https://github-readme-stats.vercel.app/api?username=erfan-sadeghiii&show_icons=true&theme=dark)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-sadeghiii&layout=compact&theme=dark)
 </div>
 
 ---
