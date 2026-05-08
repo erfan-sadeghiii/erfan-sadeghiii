@@ -31,7 +31,7 @@
   
   <img src="https://skillicons.dev/icons?i=cpp,linux,vim,git,github,vscode,docker" />
   <img src="https://skillicons.dev/icons?i=ae,pr,id,ps,ai,xd,figma" />
-  <img src="https://skillicons.dev/icons?i=cpp,linux,vim,git,github,vscode,docker" />
+
   
 
 
